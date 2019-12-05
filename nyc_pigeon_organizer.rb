@@ -1,5 +1,4 @@
 def nyc_pigeon_organizer(data)
- def nyc_pigeon_organizer(data)
   updated_data = {}
   
   data.each do |key, value|
